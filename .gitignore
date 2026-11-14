@@ -1,0 +1,6 @@
+# Fichiers générés par Visual Studio / la compilation
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
