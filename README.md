@@ -1,4 +1,4 @@
-# To-do List
+# Simple To-do List
 
 Une mini application de bureau pour garder ses tâches sous les yeux : une fenêtre transparente, posée au centre du bureau, qui se lance automatiquement au démarrage de Windows.
 
@@ -72,7 +72,7 @@ To-do List/
 
 Les couleurs, polices et l'arrondi des coins se modifient dans `Core/Theme.cs`.
 
-La transparence repose sur la couleur `#101010` (`Theme.TransparentKey`), rendue invisible par la fenêtre. Si tu la changes, mets aussi à jour `BackColor` et `TransparencyKey` dans le concepteur de `Form1`.
+La transparence repose sur la couleur `#101010` (`Theme.TransparentKey`), rendue invisible par la fenêtre. Si vous la changez, metez aussi à jour `BackColor` et `TransparencyKey` dans le concepteur de `Form1`.
 
 ## Technologies
 
